@@ -1,0 +1,18 @@
+{
+  "name": "RemoteLog",
+  "version": "0.1.0",
+  "description": "Remote log aggregator",
+  "main": "remotelog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AndrejAndb/remotelog.git"
+  },
+  "author": "Andrej E Baranov",
+  "license": "BSD",
+  "dependencies": {
+    "underscore": "1.5.1"
+  }
+}
